@@ -7,9 +7,12 @@ SwiftCart is a modern eCommerce web application built with React, Vite, React Ro
 The project demonstrates modern frontend development concepts including component-based architecture, API integration, state management, automated testing, routing, and cloud deployment on AWS.
 
 ---
-<img width="1419" height="681" alt="Screenshot 2026-05-31 at 9 23 22 pm" src="https://github.com/user-attachments/assets/3e5356e7-6aab-4a70-b71f-e10b621aaee3" />
-<img width="1364" height="672" alt="Screenshot 2026-05-31 at 9 24 13 pm" src="https://github.com/user-attachments/assets/de57e7e7-804d-41b5-818e-cbc3866254e7" />
-<img width="1413" height="679" alt="Screenshot 2026-05-31 at 9 23 41 pm" src="https://github.com/user-attachments/assets/0f63a9fb-a9d8-4ddf-a9f4-0ccb0a1f72f5" />
+
+<img width="1419" height="681" alt="Screenshot 2026-05-31 at 9 23 22 pm" src="https://github.com/user-attachments/assets/9905a566-50da-4a37-a5f7-c76cda14cb7e" />
+<img width="1364" height="672" alt="Screenshot 2026-05-31 at 9 24 13 pm" src="https://github.com/user-attachments/assets/f067df8a-34e1-42d8-ace4-81c3c47be104" />
+<img width="1413" height="679" alt="Screenshot 2026-05-31 at 9 23 41 pm" src="https://github.com/user-attachments/assets/84e706d2-a104-4b50-9287-4d4518167997" />
+
+
 
 ## Features
 
